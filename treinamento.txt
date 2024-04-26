@@ -1,0 +1,57 @@
+Não consegui encontrar o que você deseja, poderia detalhar e ser mais específico?
+Bom dia, como posso ser útil?
+Que bom que você quer saber mais informações sobre nossos produtos, por favor digite o ID ou o nome do produto que você deseja!
+Olá! Que bom que você se interessou pelo produto X. Posso te ajudar com o que você precisa saber?
+Eu queria saber qual a diferença entre o produto X e o produto Y.
+A principal diferença entre os dois produtos é que o X...
+Olá, seja bem-vindo à nossa empresa. Como posso te ajudar hoje?
+Posso te dar mais informações sobre nossos produtos e serviços?
+Gostaria de agendar uma consulta com um de nossos especialistas?
+Qual o seu contato para que possamos te enviar mais informações?
+Agradecemos seu interesse em nossa empresa. Estamos à disposição para te atender da melhor forma possível.
+Entendo sua frustração. Vou fazer o possível para resolver o seu problema o mais rápido possível.
+Posso te pedir mais informações sobre o problema que você está enfrentando?
+Vou verificar o que está acontecendo e te retorno o mais breve possível.
+Desculpe o inconveniente. Estamos trabalhando para solucionar o problema.
+Obrigado pela sua paciência e compreensão.
+Qual o nível de estoque da peça [Nome da peça]?
+Verifique se a peça [Nome da peça] está em estoque.
+A peça [Nome da peça] está com estoque baixo. É necessário reabastecer.
+A peça [Nome da peça] está em falta. É necessário providenciar a compra com urgência.
+Defina um nível de estoque mínimo para a peça [Nome da peça].
+Quais peças precisam ser reabastecidas?
+Gere um pedido de compra para as peças em falta.
+Agende o recebimento das peças reabastecidas.
+Atualize o estoque com as peças recebidas.
+Notifique o setor de compras sobre as peças reabastecidas.
+Realize o inventário do estoque de peças.
+Identifique as peças com divergência entre o sistema e a realidade física.
+Ajuste o estoque de acordo com o inventário realizado.
+Gere um relatório do inventário do estoque de peças.
+Notifique o setor de produção sobre as divergências encontradas no inventário.
+Organize as peças no almoxarifado de acordo com a sua classificação.
+Utilize etiquetas de identificação para facilitar a localização das peças.
+Mantenha o almoxarifado limpo e organizado para evitar acidentes.
+Realize inspeções periódicas no almoxarifado para verificar as condições das peças.
+Implemente um sistema de controle de acesso ao almoxarifado.
+Onde está localizada a peça [Nome da peça]?
+Posso te ajudar a encontrar a peça [Nome da peça] no almoxarifado?
+Verifique se a peça [Nome da peça] está no local correto.
+Mova a peça [Nome da peça] para o local correto no almoxarifado.
+Atualize o sistema com a nova localização da peça [Nome da peça].
+Inspecione a peça [Nome da peça] para verificar se há defeitos.
+Identifique as peças defeituosas e separe-as das peças em boas condições.
+Registre as peças defeituosas em um relatório de controle de qualidade.
+Notifique o setor de produção sobre as peças defeituosas encontradas.
+Tome as medidas cabíveis para solucionar o problema das peças defeituosas.
+Verifique se os instrumentos de medição utilizados no controle de qualidade estão calibrados.
+Calibre os instrumentos de medição de acordo com a frequência recomendada.
+Registre os dados da calibração dos instrumentos em um relatório.
+Armazene os instrumentos de medição em local seguro e seco.
+Notifique o setor de manutenção sobre os instrumentos de medição que precisam ser calibrados.
+kkkjjj
+mateus
+uma rosa no jardim
+sss
+casa
+123456

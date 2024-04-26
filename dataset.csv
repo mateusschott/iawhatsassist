@@ -1,0 +1,101 @@
+part_id,part_name,quantity,price
+1,Parafuso,500,0.50
+2,Porca,700,0.30
+3,Arruela,1000,0.20
+4,Engrenagem,400,1.50
+5,Mola,600,0.80
+6,Conector,300,1.20
+7,Eixo,200,2.00
+8,Válvula,250,3.50
+9,Rolamento,450,2.80
+10,Pistão,150,4.00
+11,Tubo,800,1.00
+12,Cabo,350,1.80
+13,Sensor,275,2.50
+14,Correia,180,1.90
+15,Placa de Circuito,210,5.00
+16,Fusível,700,0.50
+17,Lâmina,320,3.20
+18,Bobina,420,2.20
+19,Válvula Solenóide,180,4.50
+20,Bateria,280,6.00
+21,Chave,400,1.50
+22,Fio,600,0.40
+23,Motor Elétrico,150,25.00
+24,Resistor,800,0.10
+25,LED,500,0.80
+26,Fusível Térmico,200,1.20
+27,Transistor,300,1.80
+28,Capacitor,350,0.70
+29,Relé,400,3.00
+30,Interruptor,250,2.50
+31,Sensor de Temperatura,180,3.50
+32,Bomba Hidráulica,90,45.00
+33,Válvula de Retenção,120,12.00
+34,Conector Elétrico,400,1.00
+35,Ventoinha,250,8.00
+36,Engate Rápido,300,2.50
+37,Terminal Elétrico,500,0.50
+38,Filtro de Ar,150,6.50
+39,Mangueira,700,1.20
+40,Manômetro,180,15.00
+41,Válvula de Controle,120,18.00
+42,Cilindro Pneumático,90,22.00
+43,Solenoide,200,4.80
+44,Bomba de Água,100,32.00
+45,Tubulação,300,3.00
+46,Junta,400,0.80
+47,Rotor,150,10.00
+48,Chave de Fenda,500,1.50
+49,Conexão de Latão,180,2.20
+50,Módulo de Controle,120,38.00
+51,Corrente de Transmissão,90,20.00
+52,Fusível de Vidro,200,0.60
+53,Tomada Elétrica,250,3.80
+54,Sensor de Pressão,300,5.50
+55,Mangote,180,2.00
+56,Motor de Passo,100,30.00
+57,Filtro de Óleo,400,4.00
+58,Válvula de Esfera,150,8.50
+59,Compressor de Ar,200,50.00
+60,Bucha,350,1.80
+61,Embreagem,180,25.00
+62,Bico Injetor,250,12.00
+63,Reservatório de Óleo,300,7.50
+64,Conexão Rápida,90,2.00
+65,Relé de Proteção,200,6.00
+66,Fusível de Cerâmica,300,0.70
+67,Pistola de Pintura,120,35.00
+68,Luva de Segurança,180,2.50
+69,Conexão Pneumática,150,3.20
+70,Conector Pneumático,100,1.80
+71,Sensor de Proximidade,250,8.00
+72,Comutador,400,3.50
+73,Braçadeira,150,0.50
+74,Ferramenta de Corte,180,6.00
+75,Válvula Reguladora,200,10.00
+76,Acoplamento,300,15.00
+77,Elemento de Filtro,90,3.80
+78,Acumulador de Pressão,250,20.00
+79,Manípulo,350,2.50
+80,Conexão Hidráulica,180,2.80
+81,Manifold,200,12.00
+82,Engate Hidráulico,300,5.00
+83,Motor Hidráulico,150,60.00
+84,Sonda Lambda,250,18.00
+85,Conexão Elétrica,400,1.20
+86,Válvula Proporcional,180,30.00
+87,Amortecedor,250,8.50
+88,Filtro de Combustível,200,5.00
+89,Régua de Contato,300,2.80
+90,Escova de Carvão,100,4.50
+91,Engate Rápido Pneumático,250,3.00
+92,Isolador Elétrico,180,0.80
+93,Compressor de Ar Condicionado,300,150.00
+94,Bomba de Combustível,150,70.00
+95,Filtro de Gás,200,8.00
+96,Selo Mecânico,250,25.00
+97,Junta de Vedação,400,1.50
+98,Válvula de Alívio,180,15.00
+99,Sensor de Nível,200,12.00
+100,Corrente de Rolamento,350,3.50
